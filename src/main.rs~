@@ -1,0 +1,7 @@
+fn is_vowel(letra: char) {
+    letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u'
+}
+
+fn main() {
+    println!("Hello, world!");
+}
